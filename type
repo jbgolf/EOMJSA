@@ -15,7 +15,7 @@
  
   <section>
    <form>
-    <textarea id="xkdlvld" style="width:1000px;height:500px"></textarea>
+    <textarea id="xkdlvld" style="width:1000px;height:500px"><span id:"A1"></span><span id:"B1"></span></textarea>
    </form>
   </section>
   
@@ -26,9 +26,11 @@
 
     function button1_click() 
     {
-      var rkqt = document.getElementById("xkdlvld").value;
+      var rkqt = document.getElementById("A1").value;
+      var rkqt = document.getElementById("B1").value;
       
-      document.write(rkqt);
+      document.write
+       (B1+A1);
     }
 
     </script>
