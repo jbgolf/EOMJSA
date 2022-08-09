@@ -9,7 +9,8 @@
  
  <body>
   <section>
-  
+   <button id="button1" onclick="button1_click();">변환</button>
+
   </section>
   
  
@@ -21,4 +22,13 @@
   
   
   </body>
+  
+    <script>
+
+    function button1_click() 
+    {
+      document.getElementById("hi").innerHTML = "안녕";
+    }
+
+    </script>
 </html>
