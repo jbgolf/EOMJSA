@@ -10,13 +10,12 @@
  <body>
   <section>
    <button id="button1" onclick="button1_click();">변환</button>
-
   </section>
   
  
   <section>
    <form>
-    <textarea style="width:1000px;height:500px"></textarea>
+    <textarea id="xkdlvld" style="width:1000px;height:500px"></textarea>
    </form>
   </section>
   
@@ -27,7 +26,9 @@
 
     function button1_click() 
     {
-      document.getElementById("hi").innerHTML = "안녕";
+      var rkqt = document.getElementById("xkdlvld").value;
+      
+      document.write(rkqt);
     }
 
     </script>
