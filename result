@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>CONTROLVHERE</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+   </head>
+<body>
+
+
+<div id="출력테이블_24145" align="center" x:publishsource="Excel">
+
+<table border="0" cellpadding="0" cellspacing="0" width="1407" style="border-collapse: collapse;table-layout:fixed;width:1050pt">
+ <colgroup><col width="67" span="21" style="width:50pt">
+ </colgroup>
+ 
+ <tbody><tr height="19" style="height:14.4pt">
+  <td height="19" class="xl1524145" width="67" style="height:14.4pt;width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+  <td class="xl1524145" width="67" style="width:50pt"></td>
+ </tr>
+ 
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td colspan="2" class="xl10924145" style="border-right:.5pt solid black">부서명/협력사</td>
+  <td class="xl6524145" style="border-left:none">&nbsp;</td>
+  <td class="xl6624145">&nbsp;</td>
+  <td class="xl6624145">&nbsp;</td>
+  <td class="xl6724145">&nbsp;</td>
+  <td colspan="7" rowspan="2" class="xl11124145" style="border-right:.5pt solid black;
+  border-bottom:.5pt solid black">작업 안전
+  분석 (JSA)</td>
+  <td colspan="3" class="xl11724145" width="201" style="border-left:none;width:150pt"><span style="mso-spacerun:yes">&nbsp;</span>평가일자<span style="mso-spacerun:yes">&nbsp; </span>:<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></td>
+  <td colspan="3" class="xl11924145" style="border-right:.5pt solid black">&nbsp;</td>
+  <td class="xl6824145" style="border-left:none">승인자</td>
+ </tr>
+ 
+ <tr height="34" style="height:25.8pt">
+  <td height="34" class="xl1524145" style="height:25.8pt"></td>
+  <td colspan="2" class="xl12124145" width="134" style="border-right:.5pt solid black;
+  width:100pt">작업명</td>
+  <td colspan="2" class="xl9924145" width="134" style="border-left:none;width:100pt">&nbsp;</td>
+  <td class="xl6924145" width="67" style="width:50pt">&nbsp;</td>
+  <td class="xl7024145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+  <td rowspan="2" class="xl12324145" style="border-bottom:.5pt solid black">평가자</td>
+  <td class="xl7124145" width="67" style="border-left:none;width:50pt">근로자</td>
+  <td class="xl7124145" width="67" style="border-left:none;width:50pt">협력사</td>
+  <td class="xl7124145" width="67" style="border-left:none;width:50pt">신청부서</td>
+  <td class="xl7124145" width="67" style="border-left:none;width:50pt">허가부서</td>
+  <td class="xl7224145" width="67" style="width:50pt">안전환경팀</td>
+  <td rowspan="2" class="xl9524145" style="border-bottom:.5pt solid black;
+  border-top:none">&nbsp;</td>
+ </tr>
+ 
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td colspan="2" class="xl9724145" width="134" style="border-right:.5pt solid black;
+  width:100pt">작업내용</td>
+  <td colspan="4" class="xl9924145" width="268" style="border-right:.5pt solid black;
+  border-left:none;width:200pt">&nbsp;</td>
+  <td colspan="2" class="xl10224145" width="134" style="border-right:.5pt solid black;
+  border-left:none;width:100pt">작업기간</td>
+  <td class="xl7324145" width="67" style="border-left:none;width:50pt">-<span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td colspan="3" class="xl10424145" width="201" style="border-right:.5pt solid black;
+  width:150pt">JSA No</td>
+  <td class="xl7424145">&nbsp;</td>
+  <td class="xl7524145" width="67" style="border-left:none;width:50pt">&nbsp;</td>
+  <td class="xl7524145" width="67" style="border-left:none;width:50pt">&nbsp;</td>
+  <td class="xl7524145" width="67" style="border-left:none;width:50pt">&nbsp;</td>
+  <td class="xl7524145" width="67" style="border-left:none;width:50pt">&nbsp;</td>
+  <td class="xl7624145" width="67" style="width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl1524145" style="height:15.0pt"></td>
+  <td rowspan="3" class="xl8024145" width="67" style="width:50pt">No.</td>
+  <td colspan="2" rowspan="3" class="xl8024145" width="134" style="width:100pt">작업단계</td>
+  <td colspan="3" rowspan="3" class="xl8024145" width="201" style="width:150pt">위험요인</td>
+  <td rowspan="3" class="xl10824145" width="67" style="border-bottom:.5pt solid black;
+  width:50pt">취급<br>
+    화학<br>
+    물질</td>
+  <td rowspan="3" class="xl10824145" width="67" style="border-bottom:.5pt solid black;
+  width:50pt">유발<br>
+    재해</td>
+  <td rowspan="3" class="xl8024145" width="67" style="width:50pt">현재
+  조치사항</td>
+  <td colspan="3" class="xl8024145" width="201" style="border-left:none;width:150pt">현재
+  위험도</td>
+  <td colspan="3" rowspan="3" class="xl8024145" width="201" style="width:150pt">감소대책</td>
+  <td colspan="3" class="xl8024145" width="201" style="border-left:none;width:150pt">조치
+  후 위험도</td>
+  <td colspan="2" rowspan="3" class="xl8924145" width="134" style="border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:100pt">주관부서
+  확인<br>
+    (일자/서명)</td>
+ </tr>
+ 
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl1524145" style="height:15.0pt"></td>
+  <td class="xl7724145" width="67" style="border-top:none;border-left:none;
+  width:50pt">사고</td>
+  <td class="xl7724145" width="67" style="border-top:none;width:50pt">피해</td>
+  <td class="xl7824145" width="67" style="border-top:none;width:50pt">위험</td>
+  <td class="xl7724145" width="67" style="border-top:none;border-left:none;
+  width:50pt">사고</td>
+  <td class="xl7724145" width="67" style="border-top:none;width:50pt">피해</td>
+  <td class="xl7824145" width="67" style="border-top:none;width:50pt">위험</td>
+ </tr>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl1524145" style="height:15.0pt"></td>
+  <td class="xl7924145" width="67" style="border-left:none;width:50pt">빈도</td>
+  <td class="xl7924145" width="67" style="width:50pt">강도</td>
+  <td class="xl8024145" width="67" style="width:50pt">등급</td>
+  <td class="xl7924145" width="67" style="border-left:none;width:50pt">빈도</td>
+  <td class="xl7924145" width="67" style="width:50pt">강도</td>
+  <td class="xl8024145" width="67" style="width:50pt">등급</td>
+ </tr>
+ 
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">1</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B3"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C3"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D3"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E3"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I3"</td>
+  <td colspan="3" class="xl12524145" width="201" style="border-left:none;width:150pt">"J3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L3"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M3"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">2</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B4"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C4"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D4"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E4"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I4"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L4"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M4"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">3</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B5"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C5"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D5"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E5"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I5"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L5"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M5"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">4</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B6"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C6"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D6"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E6"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I6"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L6"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M6"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">5</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B7"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C7"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D7"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E7"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I7"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L7"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M7"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">6</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B8"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C8"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D8"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E8"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I8"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L8"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M8"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">7</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B9"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C9"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D9"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E9"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I9"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L9"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M9"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">8</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B10"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C10"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D10"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E10"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I10"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L10"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M10"</td>
+  <td class="xl8524145" width="67" style="border-top:none;border-left:none;
+  width:50pt">&nbsp;</td>
+  <td class="xl8624145" width="67" style="border-top:none;width:50pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">9</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B11"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C11"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D11"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E11"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I11"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L11"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M11"</td>
+  <td colspan="2" class="xl8424145" width="134" style="border-left:none;width:100pt">&nbsp;</td>
+ </tr>
+ <tr height="22" style="height:16.5pt">
+  <td height="22" class="xl1524145" style="height:16.5pt"></td>
+  <td class="xl8124145" width="67" style="border-top:none;width:50pt">10</td>
+  <td colspan="2" class="xl8724145" style="border-right:.5pt solid black;
+  border-left:none">"B12"</td>
+  <td colspan="3" class="xl8624145" width="201" style="width:150pt">"C12"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"D12"</td>
+  <td class="xl8224145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"E12"</td>
+  <td class="xl8324145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"F12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"G12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"H12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"I12"</td>
+  <td colspan="3" class="xl12624145" width="201" style="border-right:.5pt solid black;
+  border-left:none;width:150pt">"J12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"K12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"L12"</td>
+  <td class="xl8424145" width="67" style="border-top:none;border-left:none;
+  width:50pt">"M12"</td>
+  <td colspan="2" class="xl8424145" width="134" style="border-left:none;width:100pt">&nbsp;</td>
+ </tr>
+ <!--[if supportMisalignedColumns]-->
+ <tr height="0" style="display:none">
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+  <td width="67" style="width:50pt"></td>
+ </tr>
+
+</tbody></table>
+
+</div>
+
+
+
+</body>
